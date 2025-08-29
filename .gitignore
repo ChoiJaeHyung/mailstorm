@@ -1,0 +1,21 @@
+# FE
+fe/node_modules/
+fe/dist/
+fe/build/
+fe/.next/
+fe/.vite/
+fe/coverage/
+fe/*.log
+fe/.env
+fe/.env.*
+
+# BE
+be/target/
+be/.gradle/
+be/build/
+be/*.log
+
+# Common
+*.env
+*.env.*
+.DS_Store
